@@ -1,4 +1,7 @@
 repo local windows
-modificacion local del archivo
-modificado en repositorio remoto de git
+<<<<<<< HEAD
 
+modificacion local del archivo
+=======
+modificado en repositorio remoto de git
+>>>>>>> 5f8daddf1ab82d8a247d2ae53a071f133ff63ee9
